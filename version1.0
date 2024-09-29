@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title> Web Project <font color=blue size=50> 1.0 </font></title>
+<title> Web Project 1.0 </title>
 <body>
 
 <h1>
-  Web Project 1.0
+  Web Project Version <font color=blue size=100> 1.0 </font>
 </h1>
 <p>This is a test page.</p>
 
